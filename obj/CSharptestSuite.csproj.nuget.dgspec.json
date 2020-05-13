@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alvaro.espinoza/Documents/CSharptestSuite/CSharptestSuite.csproj": {}
+    "/Users/alvaro.espinoza/Documents/Git/CSharpDotNet_SauceDemo/CSharptestSuite.csproj": {}
   },
   "projects": {
-    "/Users/alvaro.espinoza/Documents/CSharptestSuite/CSharptestSuite.csproj": {
+    "/Users/alvaro.espinoza/Documents/Git/CSharpDotNet_SauceDemo/CSharptestSuite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alvaro.espinoza/Documents/CSharptestSuite/CSharptestSuite.csproj",
+        "projectUniqueName": "/Users/alvaro.espinoza/Documents/Git/CSharpDotNet_SauceDemo/CSharptestSuite.csproj",
         "projectName": "CSharptestSuite",
-        "projectPath": "/Users/alvaro.espinoza/Documents/CSharptestSuite/CSharptestSuite.csproj",
+        "projectPath": "/Users/alvaro.espinoza/Documents/Git/CSharpDotNet_SauceDemo/CSharptestSuite.csproj",
         "packagesPath": "/Users/alvaro.espinoza/.nuget/packages/",
-        "outputPath": "/Users/alvaro.espinoza/Documents/CSharptestSuite/obj/",
+        "outputPath": "/Users/alvaro.espinoza/Documents/Git/CSharpDotNet_SauceDemo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alvaro.espinoza/.nuget/NuGet/NuGet.Config"

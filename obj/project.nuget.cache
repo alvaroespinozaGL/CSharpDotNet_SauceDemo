@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GUqfp9asLzblwC2oRKARQ+cXutdx9hmcOjIbl94kcj492zJLRZ9LpBhkxKg/cJtteCadbu8GoyoHrtDS1TqqNg==",
+  "dgSpecHash": "W/24s5JRglGUkNLH4ece1fbFXDpBzZsEICGRI5NjgXBkp2Sv8YwZAUGmt1Bn3Hxuf29l81/dvemJ63BbBQ3Jvg==",
   "success": true,
-  "projectFilePath": "/Users/alvaro.espinoza/Documents/CSharptestSuite/CSharptestSuite.csproj",
+  "projectFilePath": "/Users/alvaro.espinoza/Documents/Git/CSharpDotNet_SauceDemo/CSharptestSuite.csproj",
   "expectedPackageFiles": [
     "/Users/alvaro.espinoza/.nuget/packages/microsoft.codecoverage/16.4.0/microsoft.codecoverage.16.4.0.nupkg.sha512",
     "/Users/alvaro.espinoza/.nuget/packages/microsoft.csharp/4.3.0/microsoft.csharp.4.3.0.nupkg.sha512",
