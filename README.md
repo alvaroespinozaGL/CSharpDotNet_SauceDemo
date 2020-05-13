@@ -91,6 +91,8 @@ dotnet test
 
 ## References
 https://github.com/dotnet/sdk/issues/6947
+
 https://docs.microsoft.com/en-us/dotnet/core/tools/using-ci-with-cli
+
 https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test
 
